@@ -4,12 +4,6 @@
     --cor-de-fundo: #EBECEE;
 }
 
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
 body{
     background: var(--cor-de-fundo);
 }
