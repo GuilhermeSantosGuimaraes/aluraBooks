@@ -1,0 +1,11 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;500;700&display=swap');
+@import url(./header.css);
+
+:root{
+    --cor-de-fundo: #EBECEE;
+}
+
+body{
+    background: var(--cor-de-fundo);
+}
+
