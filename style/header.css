@@ -1,0 +1,6 @@
+.cabecalho__menu-hambuguer{
+    background-image: url(../img/Menu.svg);
+    width: 24px;
+    height: 24px;
+    display: inline-block;
+}
