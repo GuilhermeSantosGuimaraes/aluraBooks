@@ -28,3 +28,12 @@
     width: 100%;
 }
 
+.banner__pesquisa::placeholder{
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    color: var(--branco);
+    font-size: 1em;
+    text-align: center;
+    background: url(../img/Pesquisa.svg) no-repeat;
+    background-position: 1em;
+}
