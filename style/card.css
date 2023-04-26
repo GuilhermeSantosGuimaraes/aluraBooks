@@ -46,6 +46,7 @@
     background: var(--laranja);
     color: var(--branco);
     text-decoration: none;
-    padding: 15px;
+    padding: 1em;
     text-align: center;
+    font-weight: 700;
 }
