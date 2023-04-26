@@ -1,14 +1,18 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;500;700&display=swap');
 @import url("./header.css");
+@import url("./banner.css");
 
 :root{
     --cor-de-fundo: #EBECEE;
     --branco: #fff;
     --laranja: #EB9B00;
     --azul-degrade: linear-gradient(97.54deg, #002F52 35.49%, #326589 165.37%);
+    --fonte-principal: "Poppins";
 }
 
 body{
     background: var(--cor-de-fundo);
+    font-family: var(--fonte-principal);
+    font-size: 1rem;
+    font-weight: 400;
 }
 
