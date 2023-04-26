@@ -2,7 +2,6 @@
     background: var(--azul-degrade);
     opacity: 0.75;
     color: var(--branco);
-    font-family: var(--fonte-principal);
     text-align: center;
     padding: 2.5em 2em;
 }
