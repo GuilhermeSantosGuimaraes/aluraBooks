@@ -5,6 +5,11 @@
     align-items: center;
 }
 
+.container{
+    display: flex;
+    align-items: center;
+}
+
 .cabecalho__menu-hambuguer{
     background-image: url("../img/Menu.svg");
     width: 24px;
@@ -12,11 +17,6 @@
     background-repeat: no-repeat;
     background-position: center;
     display: inline-block;
-}
-
-.container{
-    display: flex;
-    align-items: center;
 }
 
 .container__imagem{
