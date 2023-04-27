@@ -21,3 +21,29 @@
     text-decoration: none;
 }
 
+.cursos__titulo-T{
+    display: none;
+}
+
+@media screen and (min-width: 1024px) {
+    .cursos{
+        padding: 2em 0.8em 1em 0.8em;
+    }
+
+    .cursos__tituloPrincipal{
+        font-size: 1.5rem;
+        margin-bottom: 2em;
+    }
+
+    .cursos__titulo{
+        font-size: 1.5rem;
+    }
+
+    .cursos__titulo-T{
+        display: block;
+    }
+
+    .cursos__titulo-C{
+        display: none;
+    }
+}
