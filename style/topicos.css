@@ -1,0 +1,19 @@
+.cursos{
+    background: var(--azul-escuro);
+    padding: 1em 0.8em;
+    text-align: center;
+    color: var(--branco);
+}
+
+.cursos__nomes{
+    display: flex;
+    justify-content: center;
+    margin: 1em 0;
+    gap: 1em;
+}
+
+.cursos__titulo{
+    background: var(--laranja);
+    padding: 1em;
+}
+
