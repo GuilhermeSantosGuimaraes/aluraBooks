@@ -28,8 +28,8 @@
 .rodape__email{
     background: transparent;
     color: var(--azul-degrade);
-    padding: 1em;
     border: 2px solid var(--azul-escuro);
+    padding: 1em 0;
     border-radius: 20px;
     width: 100%;
     margin: 1em 0;
