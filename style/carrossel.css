@@ -12,7 +12,8 @@
     width: 100%;
 }
 
-.swiper-button-prev, .swiper-button-next{
+.swiper-button-prev, 
+.swiper-button-next{
     display: none;
 }
 
@@ -26,5 +27,17 @@
         font-size: 1.625rem;
     }
 
+    .swiper-pagination{
+        margin: 2em 0 3em 0;
+    }
 
+    .swiper-button-prev, 
+    .swiper-button-next{
+        display: block;
+        top: 60%;
+    }   
+
+    .swiper{
+        width: 60%;
+    }
 }
