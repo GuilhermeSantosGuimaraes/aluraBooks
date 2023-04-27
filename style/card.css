@@ -20,14 +20,14 @@
 .informacao__subtitulo{
     color: var(--azul-escuro);
     font-weight: 700;
-    font-size: 1.2em;
+    font-size: 1.125em;
     line-height: 1.3em;
     margin: 0.3em 0 0.3em 0;
 }
 
 .informacao__texto{
     color: var(--preto);
-    font-size: 1rem;
+    font-size: 15px;
     font-weight: 400;
     line-height: 21px;
 }
@@ -49,4 +49,8 @@
     padding: 1em;
     text-align: center;
     font-weight: 700;
+}
+
+.estrela{
+    margin-bottom: 0.5em;
 }
