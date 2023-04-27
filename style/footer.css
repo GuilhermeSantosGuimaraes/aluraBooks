@@ -54,14 +54,8 @@
     padding: 1em;
 }
 
-.rodape_alura-educacao{
-    display: none;
-}
-
-.rodape_alura-online{
-    display: none;
-}
-
+.rodape_alura-educacao,
+.rodape_alura-online,
 .rodape_alura-comunidade{
     display: none;
 }
