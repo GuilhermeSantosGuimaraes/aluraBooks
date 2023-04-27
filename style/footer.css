@@ -28,7 +28,7 @@
 .rodape__email{
     background: transparent;
     color: var(--azul-degrade);
-    padding: 0.5em;
+    padding: 1em;
     border: 2px solid var(--azul-escuro);
     border-radius: 20px;
     width: 100%;
@@ -39,7 +39,7 @@
     font-family: var(--fonte-principal);
     font-weight: 400;
     font-size: 1em;
-    text-align: center;
+    padding-left: 3em;
     color: var(--azul-escuro);
     background: url("../img/Email.svg") no-repeat;
     background-position: 1em;
