@@ -95,6 +95,7 @@
     .rodape__alura{
         display: flex;
         justify-content: space-around;
+        padding: 3em 1em;
     }
 
     .texto{
