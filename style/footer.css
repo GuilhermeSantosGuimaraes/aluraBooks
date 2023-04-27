@@ -1,0 +1,55 @@
+.rodape{
+    background: var(--branco);
+}
+
+.rodape__informativo{
+    padding: 1em;
+}
+
+.rodape__titulo{
+    font-size: 1.125em;
+    font-weight: 500;
+    line-height: 21px;
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.rodape__texto{
+    font-weight: 300;
+    line-height: 24px;
+    background: var(--azul-degrade);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+}
+
+.rodape__email{
+    background: transparent;
+    color: var(--azul-degrade);
+    padding: 0.5em;
+    border: 2px solid var(--azul-escuro);
+    border-radius: 20px;
+    width: 100%;
+    margin: 1em 0;
+}
+
+.rodape__email::placeholder{
+    font-family: var(--fonte-principal);
+    font-weight: 400;
+    font-size: 1em;
+    text-align: center;
+    color: var(--azul-escuro);
+    background: url("../img/Email.svg") no-repeat;
+    background-position: 1em;
+}
+
+.linha{
+    background: #858585;
+    padding: 1px;
+}
+
+.rodape__alura{
+    padding: 1em;
+}
