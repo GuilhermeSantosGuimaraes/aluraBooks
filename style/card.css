@@ -32,6 +32,10 @@
     line-height: 21px;
 }
 
+.informacao__imagem2{
+    margin-top: 2.3em;
+}
+
 .conteudo__imagens{
     display: flex;
     flex-direction: column;
