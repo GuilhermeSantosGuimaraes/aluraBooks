@@ -10,10 +10,13 @@
     justify-content: center;
     margin: 1em 0;
     gap: 1em;
+    font-size: 0.875em;
+    font-weight: 700;
 }
 
 .cursos__titulo{
     background: var(--laranja);
     padding: 1em;
+    font-weight: 400;
 }
 
