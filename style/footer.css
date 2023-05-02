@@ -117,3 +117,21 @@
         margin-bottom: 1em;
     }
 }
+
+@media screen and (min-width: 1728px) {
+    .rodape__email{
+        width: 20%;
+    }
+
+    .rodape__informativo-textos{
+        margin-right: 1em;
+        width: 25%;
+    }
+
+    .rodape_alura-educacao,
+    .rodape_alura-online,
+    .rodape_alura-comunidade{
+        border-left: 1px solid var(--preto);
+        padding-left: 1em;
+    }
+}
