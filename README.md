@@ -1,6 +1,6 @@
 <h1 align="center">aluraBooks</h1>
 
-![Imagem da Alura Books]("./img/Alura.png")
+![Imagem da Alura Books](./img/Alura.png)
 
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 
