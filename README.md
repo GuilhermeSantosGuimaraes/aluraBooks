@@ -8,9 +8,10 @@
 
 Projeto feito durante o curso de responsividade da Alura
 
- # 📁 Acesso ao projeto - https://guilhermesantosguimaraes.github.io/aluraBooks/
+ ## 📁 Acesso ao projeto  
+Você pode acessar o projeto clicando [aqui](https://guilhermesantosguimaraes.github.io/aluraBooks/)
 
- # ✔️ Técnicas e tecnologias utilizadas
+ ## ✔️ Técnicas e tecnologias utilizadas
 - `HTML`
 - `CSS`
 - `Responsividade`
